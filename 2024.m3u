@@ -60,9 +60,3 @@ http://tv.streamid.tv:8080/Cliente5883/5883TfeA65/100070
 http://tv.streamid.tv:8080/Cliente5883/5883TfeA65/198155
 #EXTINF:-1 tvg-id="13 Cable" tvg-logo="http://www.manque.online/iptv/logos/13c.png" group-title="General",13 Cable
 http://tv.streamid.tv:8080/Cliente5883/5883TfeA65/81994
-#EXTINF:-1 tvg-id="Reality 1" tvg-logo="https://www.manque.online/iptv/logos/vcte2.jpg" group-title="General",Reality 1
-https://infiny10.dps.live/mgar1/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Reality 2" tvg-logo="https://www.manque.online/iptv/logos/vcte2.jpg" group-title="General",Reality 2
-https://infiny10.dps.live/mgar2/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Reality 3" tvg-logo="https://www.manque.online/iptv/logos/vcte2.jpg" group-title="General",Reality 3
-https://infiny10.dps.live/mgar3/livestream/playlist.m3u8
