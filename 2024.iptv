@@ -1,1 +1,68 @@
+#EXTM3U 
 
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="http://www.manque.online/iptv/logos/mega.png" group-title="General",Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVN" tvg-logo="http://www.manque.online/iptv/logos/tvn.png" group-title="General",TVN
+http://tv.streamid.tv:8080/live/Cliente5883/5883TfeA65/35555.ts
+#EXTINF:-1 tvg-id="Chilevisión" tvg-logo="http://www.manque.online/iptv/logos/chv2.png" group-title="General",Chilevisión
+http://tv.streamid.tv:8080/live/Cliente5883/5883TfeA65/34027.ts
+#EXTINF:-1 tvg-id="Canal 13" tvg-logo="http://www.manque.online/iptv/logos/13.png" group-title="General",Canal 13
+http://tv.streamid.tv:8080/live/Cliente5883/5883TfeA65/27295.ts
+#EXTINF:-1 tvg-id="Rating" tvg-logo="http://www.manque.online/iptv/logos/logo_rating2.png" group-title="General",Rating
+https://unlimited2-cl-isp.dps.live/realtimetvcl/realtimetvcl.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Deportes" tvg-logo="http://www.manque.online/iptv/logos/dsports.png" group-title="General",D Sports
+http://190.196.10.140/manquepro/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="General",13C (1080p)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-id="Meganoticias.cl" tvg-logo="http://www.manque.online/iptv/logos/Meganoticias2019.png" group-title="General",Meganoticias
+https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+#EXTINF:-1 tvg-id="NTV.cl" tvg-logo="http://www.manque.online/iptv/logos/ntv.png" group-title="General",NTV
+http://tv.streamid.tv:8080/Cliente5883/5883TfeA65/35543
+#EXTINF:-1 tvg-id="T13.cl" tvg-logo="http://www.manque.online/iptv/logos/t13.png" group-title="General",T13 (720p)
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CHV Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="General",CHV Noticias
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
+#EXTINF:-1 tvg-id="Radio Infinita" tvg-logo="http://www.manque.online/iptv/logos/radioinfinita.png" group-title="General",Radio Infinita
+https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8
+#EXTINF:-1 tvg-id="Radio Cooperativa" tvg-logo="http://www.manque.online/iptv/logos/cooperativa.png" group-title="General",Radio Cooperativa
+https://unlimited2-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BioBioTV.cl" tvg-logo="http://www.manque.online/iptv/logos/biobio.png" group-title="General",Bío Bío TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="24Horas Chile" tvg-logo="http://www.manque.online/iptv/logos/24horas.png" group-title="General",24 Horas Chile
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1 tvg-id="CNN Chile" tvg-logo="http://www.manque.online/iptv/logos/cnnchile.png" group-title="General",CNN Chile
+https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN International" tvg-logo="http://www.manque.online/iptv/logos/cnninternational.png" group-title="General",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-id="Radio Carolina" tvg-logo="http://www.manque.online/iptv/logos/radiocarolina.png" group-title="General",Radio Carolina
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+#EXTINF:-1 tvg-id="TV Chile" tvg-logo="http://www.manque.online/iptv/logos/TV_Chile.png" group-title="General",TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-id="La Red" tvg-logo="http://www.manque.online/iptv/logos/lared.png" group-title="General",La Red
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVN DPS" tvg-logo="http://www.manque.online/iptv/logos/tvn.png" group-title="General",TVN DPS
+https://unlimited1-cl-isp.dps.live/tvn/tvn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Chilevisión DPS" tvg-logo="http://www.manque.online/iptv/logos/chv2.png" group-title="General",Chilevisión DPS
+https://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
+#EXTINF:-1 tvg-id="Canal 13 DPS" tvg-logo="http://www.manque.online/iptv/logos/13.png" group-title="General",Canal 13 DPS
+https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8
+#EXTINF:-1 tvg-id="TV+" tvg-logo="http://www.manque.online/iptv/logos/tv+.png" group-title="General",TV+
+http://tv.streamid.tv:8080/Cliente5883/5883TfeA65/15261
+#EXTINF:-1 tvg-id="REC TV" tvg-logo="http://www.manque.online/iptv/logos/rectv.png" group-title="General",REC TV
+http://tv.streamid.tv:8080/Cliente5883/5883TfeA65/9230
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="http://www.manque.online/iptv/logos/tntpremiun.png" group-title="General",TNT Sports
+http://tv.streamid.tv:8080/Cliente5883/5883TfeA65/104686
+#EXTINF:-1 tvg-id="Zona Latina" tvg-logo="http://www.manque.online/iptv/logos/zonalatina.png" group-title="General",Zona Latina
+http://tv.streamid.tv:8080/Cliente5883/5883TfeA65/59839
+#EXTINF:-1 tvg-id="Via X" tvg-logo="http://www.manque.online/iptv/logos/viax.png" group-title="General",Via X
+http://tv.streamid.tv:8080/Cliente5883/5883TfeA65/100070
+#EXTINF:-1 tvg-id="Mega 2" tvg-logo="http://www.manque.online/iptv/logos/mega2.png" group-title="General",Mega 2
+http://tv.streamid.tv:8080/Cliente5883/5883TfeA65/198155
+#EXTINF:-1 tvg-id="13 Cable" tvg-logo="http://www.manque.online/iptv/logos/13c.png" group-title="General",13 Cable
+http://tv.streamid.tv:8080/Cliente5883/5883TfeA65/81994
+#EXTINF:-1 tvg-id="Reality 1" tvg-logo="https://www.manque.online/iptv/logos/vcte2.jpg" group-title="General",Reality 1
+https://infiny10.dps.live/mgar1/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Reality 2" tvg-logo="https://www.manque.online/iptv/logos/vcte2.jpg" group-title="General",Reality 2
+https://infiny10.dps.live/mgar2/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Reality 3" tvg-logo="https://www.manque.online/iptv/logos/vcte2.jpg" group-title="General",Reality 3
+https://infiny10.dps.live/mgar3/livestream/playlist.m3u8
