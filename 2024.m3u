@@ -12,7 +12,7 @@ http://tv.streamid.tv:8080/live/Cliente5883/5883TfeA65/27295.ts
 https://unlimited2-cl-isp.dps.live/realtimetvcl/realtimetvcl.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-logo="http://www.manque.pro/iptv/logos/dsports.png" group-title="General",D Sports
 http://190.196.10.140/manquepro/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Deportes" tvg-logo="http://www.manque.pro/iptv/logos/espn2.png" group-title="General",ESPN 2
+#EXTINF:-1 tvg-id="Deportes" tvg-logo="http://www.manque.pro/iptv/logos/espn2.jpg" group-title="General",ESPN 2
 http://181.78.79.131:8000/play/a0qj
 #EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="General",13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
