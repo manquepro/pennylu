@@ -76,3 +76,5 @@ http://15.204.246.24:8080/HistoryHD/index.m3u8
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports" tvg-logo="http://www.manque.pro/iptv/logos/tntpremiun.png" group-title="General",TNT Sports
 http://209.45.101.130:8040/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-logo="https://i2-prod.walesonline.co.uk/article33505666.ece/ALTERNATES/s510b/0_Untitledjpeg.jpg" group-title="General",Sky Sports F1
+https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
